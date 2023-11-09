@@ -1,0 +1,16 @@
+{
+  "name": "commerce",
+  "version": "1.0.0",
+  "description": "Commerce page with Express.JS and Mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "mongo"
+  ],
+  "author": "Felipe Haybar",
+  "license": "ISC"
+}
